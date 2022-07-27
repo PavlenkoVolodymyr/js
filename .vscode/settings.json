@@ -1,0 +1,11 @@
+{
+  "prettier.semi": true,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": true,
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": true,
+  "files.trimTrailingWhitespace": false,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "javascript.format.semicolons": "ignore",
+  "typescript.format.semicolons": "ignore",
+  "typescript.implementationsCodeLens.enabled": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": false
+}
